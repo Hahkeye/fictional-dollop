@@ -1,4 +1,11 @@
 import math,os
+
+# Features:
+# Add gps data so you can tell at what point in the flight you had the bad link quality
+# Include time frame in print out
+# Total statiscs across all flights in a group.
+
+
 class Frame:
     def __init__(self, signal, channel, flightTime, craftBat, goggleBat, craftCellCount, delay, bitrate, rcsignal, start, end):
         self.signal=signal
@@ -22,9 +29,8 @@ class Frame:
         tDelay = int(data[7].split(":")[1].split("m")[0])
         tBitrage = float(data[8].split(":")[1].split("M")[0])
 
-
         return Frame(data[0][7],data[1][3],data[2].split(":")[1],data[3].split(":")[1],data[4].split(":")[1],data[5].split(":")[1],tDelay,tBitrage,data[8].split(":")[1],time[0],time[1])
-#Store the frame that the even happened at. Instead of just the humber
+
 class Flight:
     def __init__(self, name):
         self.frames=[]
@@ -81,31 +87,43 @@ class Suite:
             print("---------------------------------")
             i.out()
     print("asdasd")
-# target = open("DJIG0000.srt"
+
+def menu():
+
+    print("""
+                Menu
+    ---------------------------------
+    1. |   Add Flight
+    2. |   List Flights
+    3. |   Output Flights
+    4. |   Folder target
+
+
+
+
+    """)
+
 s = Suite()
 while True:
-    #forward=input("Go again?")
-    #if forward=="y":
-    if input("Go again?"):
-        target = input("Enter target name(has to be in the same folder): ")
-        flight = Flight(target)
-        with open(target) as f:
-            stuff = f.readlines() 
-            for i in range(0,len(stuff),4):
-                tFrame=Frame.make((int(stuff[i].strip()),stuff[i+1].strip(),stuff[i+2].strip()))
-                flight.add(tFrame)
-                
-            flight.math()
-        # flight.out()
-        s.add(flight)
-    else:
-        break
-s.out()
+    menu()
+    case = int(input(":"))
+    match case:
+        case 1:
+            target = input("Enter target name(has to be in the same folder): ")
+            flight = Flight(target)
+            with open(target) as f:
+                stuff = f.readlines() 
+                for i in range(0,len(stuff),4):
+                    tFrame=Frame.make((int(stuff[i].strip()),stuff[i+1].strip(),stuff[i+2].strip()))
+                    flight.add(tFrame)
+                    
+                flight.math()
+            s.add(flight)
+        case 2:
+            for i in s.flights:
+                print(i.out())
+        case 3:
+            s.out()
+        case 4:
+            print("add logic for whole folder.")
 
-# print(len(frames))
-# print("Flight Name: ", flight.name)
-# print("Frame count: ",flight.frameCount)
-# print("Lowest Bitrage:", flight.lowestBitrage.bitrate)
-# print("Highest Delay: ", flight.maxDelay.delay)
-# print("Averag delay: ", (flight.averageDelay))    
-# print("Averag Bitrage: ", (flight.averageBitrage))    
