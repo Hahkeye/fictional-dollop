@@ -68,19 +68,40 @@ class Flight:
         print("Averag Bitrage: ", (self.averageBitrage))    
 
 class Suite:
+    def __init__(self, flights: list[Flight]):
+        self.flights=[]
+    def __init__(self):
+        self.flights=[]
+
+    def add(self, flight: Flight):
+        self.flights.append(flight)
+    
+    def out(self):
+        for i in self.flights:
+            print("---------------------------------")
+            i.out()
     print("asdasd")
 # target = open("DJIG0000.srt"
+s = Suite()
+while True:
+    #forward=input("Go again?")
+    #if forward=="y":
+    if input("Go again?"):
+        target = input("Enter target name(has to be in the same folder): ")
+        flight = Flight(target)
+        with open(target) as f:
+            stuff = f.readlines() 
+            for i in range(0,len(stuff),4):
+                tFrame=Frame.make((int(stuff[i].strip()),stuff[i+1].strip(),stuff[i+2].strip()))
+                flight.add(tFrame)
+                
+            flight.math()
+        # flight.out()
+        s.add(flight)
+    else:
+        break
+s.out()
 
-target = input("Enter target name(has to be in the same folder): ")
-flight = Flight(target)
-with open(target) as f:
-    stuff = f.readlines() 
-    for i in range(0,len(stuff),4):
-        tFrame=Frame.make((int(stuff[i].strip()),stuff[i+1].strip(),stuff[i+2].strip()))
-        flight.add(tFrame)
-        
-    flight.math()
-flight.out()
 # print(len(frames))
 # print("Flight Name: ", flight.name)
 # print("Frame count: ",flight.frameCount)

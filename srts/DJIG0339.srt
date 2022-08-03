@@ -1,0 +1,3852 @@
+1
+00:00:00,050 --> 00:00:00,166
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:25.4Mbps rcSignal:0
+
+2
+00:00:00,166 --> 00:00:00,316
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:25.4Mbps rcSignal:0
+
+3
+00:00:00,316 --> 00:00:00,483
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:25.4Mbps rcSignal:0
+
+4
+00:00:00,483 --> 00:00:00,616
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:25.4Mbps rcSignal:0
+
+5
+00:00:00,616 --> 00:00:00,800
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:25.4Mbps rcSignal:0
+
+6
+00:00:00,800 --> 00:00:00,933
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:25.4Mbps rcSignal:0
+
+7
+00:00:00,933 --> 00:00:01,116
+signal:4 ch:65535 flightTime:0 uavBat:23.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:25.4Mbps rcSignal:0
+
+8
+00:00:01,116 --> 00:00:01,250
+signal:4 ch:65535 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:25.4Mbps rcSignal:0
+
+9
+00:00:01,250 --> 00:00:01,433
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:25.4Mbps rcSignal:0
+
+10
+00:00:01,433 --> 00:00:01,583
+signal:4 ch:65535 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:25.4Mbps rcSignal:0
+
+11
+00:00:01,583 --> 00:00:01,633
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:25.4Mbps rcSignal:0
+
+12
+00:00:01,633 --> 00:00:01,782
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:79ms bitrate:10.2Mbps rcSignal:0
+
+13
+00:00:01,782 --> 00:00:01,966
+signal:4 ch:65535 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:10.2Mbps rcSignal:0
+
+14
+00:00:01,966 --> 00:00:02,000
+signal:4 ch:65535 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:19.8Mbps rcSignal:0
+
+15
+00:00:02,000 --> 00:00:02,233
+signal:4 ch:65535 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:25.4Mbps rcSignal:0
+
+16
+00:00:02,233 --> 00:00:02,416
+signal:4 ch:65535 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:30.0Mbps rcSignal:0
+
+17
+00:00:02,416 --> 00:00:02,566
+signal:4 ch:65535 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:30.0Mbps rcSignal:0
+
+18
+00:00:02,566 --> 00:00:02,600
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:181ms bitrate:26.3Mbps rcSignal:0
+
+19
+00:00:02,600 --> 00:00:02,883
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:26.3Mbps rcSignal:0
+
+20
+00:00:02,883 --> 00:00:03,033
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:38.0Mbps rcSignal:0
+
+21
+00:00:03,033 --> 00:00:03,233
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:40.3Mbps rcSignal:0
+
+22
+00:00:03,233 --> 00:00:03,366
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:40.3Mbps rcSignal:0
+
+23
+00:00:03,366 --> 00:00:03,483
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:42.8Mbps rcSignal:0
+
+24
+00:00:03,483 --> 00:00:03,683
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:48.3Mbps rcSignal:0
+
+25
+00:00:03,683 --> 00:00:03,833
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:49.7Mbps rcSignal:0
+
+26
+00:00:03,833 --> 00:00:03,966
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:49.7Mbps rcSignal:0
+
+27
+00:00:03,966 --> 00:00:04,000
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:51.2Mbps rcSignal:0
+
+28
+00:00:04,000 --> 00:00:04,283
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:53.7Mbps rcSignal:0
+
+29
+00:00:04,283 --> 00:00:04,483
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:58.0Mbps rcSignal:0
+
+30
+00:00:04,483 --> 00:00:04,633
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:58.0Mbps rcSignal:0
+
+31
+00:00:04,633 --> 00:00:04,766
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:58.0Mbps rcSignal:0
+
+32
+00:00:04,766 --> 00:00:04,983
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+33
+00:00:04,983 --> 00:00:05,100
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+34
+00:00:05,100 --> 00:00:05,283
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+35
+00:00:05,283 --> 00:00:05,450
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+36
+00:00:05,450 --> 00:00:05,616
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+37
+00:00:05,616 --> 00:00:05,750
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+38
+00:00:05,750 --> 00:00:05,900
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+39
+00:00:05,900 --> 00:00:06,000
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+40
+00:00:06,000 --> 00:00:06,200
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+41
+00:00:06,200 --> 00:00:06,350
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+42
+00:00:06,350 --> 00:00:06,533
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+43
+00:00:06,533 --> 00:00:06,716
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+44
+00:00:06,716 --> 00:00:06,866
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+45
+00:00:06,866 --> 00:00:07,000
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:58.0Mbps rcSignal:0
+
+46
+00:00:07,000 --> 00:00:07,150
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+47
+00:00:07,150 --> 00:00:07,300
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+48
+00:00:07,300 --> 00:00:07,450
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+49
+00:00:07,450 --> 00:00:07,633
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+50
+00:00:07,633 --> 00:00:07,766
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.8Mbps rcSignal:0
+
+51
+00:00:07,766 --> 00:00:07,966
+signal:4 ch:3 flightTime:0 uavBat:23.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+52
+00:00:07,966 --> 00:00:08,016
+signal:4 ch:3 flightTime:0 uavBat:23.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:58.7Mbps rcSignal:0
+
+53
+00:00:08,016 --> 00:00:08,266
+signal:4 ch:3 flightTime:0 uavBat:23.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:34ms bitrate:58.7Mbps rcSignal:0
+
+54
+00:00:08,266 --> 00:00:08,416
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+55
+00:00:08,416 --> 00:00:08,600
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+56
+00:00:08,600 --> 00:00:08,766
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+57
+00:00:08,766 --> 00:00:08,916
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+58
+00:00:08,916 --> 00:00:09,050
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+59
+00:00:09,050 --> 00:00:09,216
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+60
+00:00:09,216 --> 00:00:09,383
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+61
+00:00:09,383 --> 00:00:09,583
+signal:4 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+62
+00:00:09,583 --> 00:00:09,683
+signal:4 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+63
+00:00:09,683 --> 00:00:09,883
+signal:4 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:35ms bitrate:57.4Mbps rcSignal:0
+
+64
+00:00:09,883 --> 00:00:10,000
+signal:4 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:33ms bitrate:57.5Mbps rcSignal:0
+
+65
+00:00:10,000 --> 00:00:10,216
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+66
+00:00:10,216 --> 00:00:10,350
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+67
+00:00:10,350 --> 00:00:10,500
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+68
+00:00:10,500 --> 00:00:10,683
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+69
+00:00:10,683 --> 00:00:10,816
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+70
+00:00:10,816 --> 00:00:10,966
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+71
+00:00:10,966 --> 00:00:11,183
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+72
+00:00:11,183 --> 00:00:11,300
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.8Mbps rcSignal:0
+
+73
+00:00:11,300 --> 00:00:11,500
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.8Mbps rcSignal:0
+
+74
+00:00:11,500 --> 00:00:11,633
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+75
+00:00:11,633 --> 00:00:11,766
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+76
+00:00:11,766 --> 00:00:11,966
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+77
+00:00:11,966 --> 00:00:12,000
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+78
+00:00:12,000 --> 00:00:12,283
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.8Mbps rcSignal:0
+
+79
+00:00:12,283 --> 00:00:12,416
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+80
+00:00:12,416 --> 00:00:12,600
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+81
+00:00:12,600 --> 00:00:12,750
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.8Mbps rcSignal:0
+
+82
+00:00:12,750 --> 00:00:12,883
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.8Mbps rcSignal:0
+
+83
+00:00:12,883 --> 00:00:13,100
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.8Mbps rcSignal:0
+
+84
+00:00:13,100 --> 00:00:13,216
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+85
+00:00:13,216 --> 00:00:13,416
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+86
+00:00:13,416 --> 00:00:13,566
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+87
+00:00:13,566 --> 00:00:13,700
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+88
+00:00:13,700 --> 00:00:13,883
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+89
+00:00:13,883 --> 00:00:14,000
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+90
+00:00:14,000 --> 00:00:14,200
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+91
+00:00:14,200 --> 00:00:14,333
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+92
+00:00:14,333 --> 00:00:14,516
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:56.0Mbps rcSignal:0
+
+93
+00:00:14,516 --> 00:00:14,666
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:56.0Mbps rcSignal:0
+
+94
+00:00:14,666 --> 00:00:14,800
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+95
+00:00:14,800 --> 00:00:15,000
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+96
+00:00:15,000 --> 00:00:15,116
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+97
+00:00:15,116 --> 00:00:15,283
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+98
+00:00:15,283 --> 00:00:15,483
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+99
+00:00:15,483 --> 00:00:15,616
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+100
+00:00:15,616 --> 00:00:15,800
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+101
+00:00:15,800 --> 00:00:15,933
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+102
+00:00:15,933 --> 00:00:16,000
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+103
+00:00:16,000 --> 00:00:16,250
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+104
+00:00:16,250 --> 00:00:16,416
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+105
+00:00:16,416 --> 00:00:16,566
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.4Mbps rcSignal:0
+
+106
+00:00:16,566 --> 00:00:16,766
+signal:3 ch:3 flightTime:0 uavBat:23.4V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+107
+00:00:16,766 --> 00:00:16,883
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+108
+00:00:16,883 --> 00:00:17,083
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+109
+00:00:17,083 --> 00:00:17,233
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+110
+00:00:17,233 --> 00:00:17,383
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+111
+00:00:17,383 --> 00:00:17,566
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+112
+00:00:17,566 --> 00:00:17,700
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+113
+00:00:17,700 --> 00:00:17,850
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+114
+00:00:17,850 --> 00:00:18,000
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+115
+00:00:18,000 --> 00:00:18,166
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+116
+00:00:18,166 --> 00:00:18,350
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+117
+00:00:18,350 --> 00:00:18,500
+signal:3 ch:3 flightTime:0 uavBat:23.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+118
+00:00:18,500 --> 00:00:18,650
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+119
+00:00:18,650 --> 00:00:18,833
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+120
+00:00:18,833 --> 00:00:18,950
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+121
+00:00:18,950 --> 00:00:19,166
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+122
+00:00:19,166 --> 00:00:19,300
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+123
+00:00:19,300 --> 00:00:19,483
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+124
+00:00:19,483 --> 00:00:19,633
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+125
+00:00:19,633 --> 00:00:19,766
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+126
+00:00:19,766 --> 00:00:19,933
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+127
+00:00:19,933 --> 00:00:20,000
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+128
+00:00:20,000 --> 00:00:20,283
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+129
+00:00:20,283 --> 00:00:20,416
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+130
+00:00:20,416 --> 00:00:20,566
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+131
+00:00:20,566 --> 00:00:20,750
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+132
+00:00:20,750 --> 00:00:20,900
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+133
+00:00:20,900 --> 00:00:21,033
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+134
+00:00:21,033 --> 00:00:21,233
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+135
+00:00:21,233 --> 00:00:21,350
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+136
+00:00:21,350 --> 00:00:21,550
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.8Mbps rcSignal:0
+
+137
+00:00:21,550 --> 00:00:21,700
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.8Mbps rcSignal:0
+
+138
+00:00:21,700 --> 00:00:21,833
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:33ms bitrate:59.9Mbps rcSignal:0
+
+139
+00:00:21,833 --> 00:00:21,983
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+140
+00:00:21,983 --> 00:00:22,183
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+141
+00:00:22,183 --> 00:00:22,316
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.8Mbps rcSignal:0
+
+142
+00:00:22,316 --> 00:00:22,450
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.8Mbps rcSignal:0
+
+143
+00:00:22,450 --> 00:00:22,666
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:34ms bitrate:59.9Mbps rcSignal:0
+
+144
+00:00:22,666 --> 00:00:22,783
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+145
+00:00:22,783 --> 00:00:22,966
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+146
+00:00:22,966 --> 00:00:23,116
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+147
+00:00:23,116 --> 00:00:23,250
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.7Mbps rcSignal:0
+
+148
+00:00:23,250 --> 00:00:23,450
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.7Mbps rcSignal:0
+
+149
+00:00:23,450 --> 00:00:23,600
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+150
+00:00:23,600 --> 00:00:23,733
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+151
+00:00:23,733 --> 00:00:23,900
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+152
+00:00:23,900 --> 00:00:24,100
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+153
+00:00:24,100 --> 00:00:24,233
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+154
+00:00:24,233 --> 00:00:24,366
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+155
+00:00:24,366 --> 00:00:24,566
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+156
+00:00:24,566 --> 00:00:24,700
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+157
+00:00:24,700 --> 00:00:24,883
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+158
+00:00:24,883 --> 00:00:25,016
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+159
+00:00:25,016 --> 00:00:25,166
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+160
+00:00:25,166 --> 00:00:25,350
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+161
+00:00:25,350 --> 00:00:25,500
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+162
+00:00:25,500 --> 00:00:25,633
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+163
+00:00:25,633 --> 00:00:25,833
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+164
+00:00:25,833 --> 00:00:25,950
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+165
+00:00:25,950 --> 00:00:26,000
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+166
+00:00:26,000 --> 00:00:26,316
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+167
+00:00:26,316 --> 00:00:26,433
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+168
+00:00:26,433 --> 00:00:26,650
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+169
+00:00:26,650 --> 00:00:26,750
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+170
+00:00:26,750 --> 00:00:26,916
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+171
+00:00:26,916 --> 00:00:27,083
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+172
+00:00:27,083 --> 00:00:27,233
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+173
+00:00:27,233 --> 00:00:27,433
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+174
+00:00:27,433 --> 00:00:27,566
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+175
+00:00:27,566 --> 00:00:27,750
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+176
+00:00:27,750 --> 00:00:27,900
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+177
+00:00:27,900 --> 00:00:28,000
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+178
+00:00:28,000 --> 00:00:28,200
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+179
+00:00:28,200 --> 00:00:28,366
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+180
+00:00:28,366 --> 00:00:28,550
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:33ms bitrate:59.9Mbps rcSignal:0
+
+181
+00:00:28,550 --> 00:00:28,716
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+182
+00:00:28,716 --> 00:00:28,833
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+183
+00:00:28,833 --> 00:00:28,983
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+184
+00:00:28,983 --> 00:00:29,150
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+185
+00:00:29,150 --> 00:00:29,283
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+186
+00:00:29,283 --> 00:00:29,483
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+187
+00:00:29,483 --> 00:00:29,633
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+188
+00:00:29,633 --> 00:00:29,783
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+189
+00:00:29,783 --> 00:00:29,983
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+190
+00:00:29,983 --> 00:00:30,000
+signal:4 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+191
+00:00:30,000 --> 00:00:30,300
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+192
+00:00:30,300 --> 00:00:30,416
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+193
+00:00:30,416 --> 00:00:30,616
+signal:4 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+194
+00:00:30,616 --> 00:00:30,750
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+195
+00:00:30,750 --> 00:00:30,916
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+196
+00:00:30,916 --> 00:00:31,083
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+197
+00:00:31,083 --> 00:00:31,216
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+198
+00:00:31,216 --> 00:00:31,333
+signal:3 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+199
+00:00:31,333 --> 00:00:31,482
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+200
+00:00:31,482 --> 00:00:31,700
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+201
+00:00:31,700 --> 00:00:31,850
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+202
+00:00:31,850 --> 00:00:32,000
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+203
+00:00:32,000 --> 00:00:32,216
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+204
+00:00:32,216 --> 00:00:32,333
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+205
+00:00:32,333 --> 00:00:32,533
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+206
+00:00:32,533 --> 00:00:32,666
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+207
+00:00:32,666 --> 00:00:32,833
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+208
+00:00:32,833 --> 00:00:33,000
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+209
+00:00:33,000 --> 00:00:33,166
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+210
+00:00:33,166 --> 00:00:33,316
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+211
+00:00:33,316 --> 00:00:33,466
+signal:3 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+212
+00:00:33,466 --> 00:00:33,633
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+213
+00:00:33,633 --> 00:00:33,766
+signal:3 ch:3 flightTime:0 uavBat:23.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+214
+00:00:33,766 --> 00:00:33,966
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+215
+00:00:33,966 --> 00:00:34,000
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+216
+00:00:34,000 --> 00:00:34,283
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+217
+00:00:34,283 --> 00:00:34,433
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+218
+00:00:34,433 --> 00:00:34,566
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+219
+00:00:34,566 --> 00:00:34,766
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+220
+00:00:34,766 --> 00:00:34,883
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+221
+00:00:34,883 --> 00:00:35,083
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+222
+00:00:35,083 --> 00:00:35,233
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+223
+00:00:35,233 --> 00:00:35,383
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+224
+00:00:35,383 --> 00:00:35,566
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+225
+00:00:35,566 --> 00:00:35,716
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+226
+00:00:35,716 --> 00:00:35,866
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+227
+00:00:35,866 --> 00:00:36,000
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+228
+00:00:36,000 --> 00:00:36,200
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+229
+00:00:36,200 --> 00:00:36,350
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+230
+00:00:36,350 --> 00:00:36,550
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+231
+00:00:36,550 --> 00:00:36,666
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+232
+00:00:36,666 --> 00:00:36,850
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+233
+00:00:36,850 --> 00:00:37,000
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+234
+00:00:37,000 --> 00:00:37,133
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+235
+00:00:37,133 --> 00:00:37,333
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+236
+00:00:37,333 --> 00:00:37,450
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+237
+00:00:37,450 --> 00:00:37,633
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+238
+00:00:37,633 --> 00:00:37,800
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+239
+00:00:37,800 --> 00:00:37,950
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+240
+00:00:37,950 --> 00:00:38,116
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+241
+00:00:38,116 --> 00:00:38,300
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+242
+00:00:38,300 --> 00:00:38,433
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+243
+00:00:38,433 --> 00:00:38,550
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+244
+00:00:38,550 --> 00:00:38,766
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+245
+00:00:38,766 --> 00:00:38,883
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+246
+00:00:38,883 --> 00:00:39,050
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+247
+00:00:39,050 --> 00:00:39,233
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+248
+00:00:39,233 --> 00:00:39,366
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+249
+00:00:39,366 --> 00:00:39,516
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+250
+00:00:39,516 --> 00:00:39,700
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+251
+00:00:39,700 --> 00:00:39,833
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+252
+00:00:39,833 --> 00:00:40,000
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+253
+00:00:40,000 --> 00:00:40,033
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+254
+00:00:40,033 --> 00:00:40,350
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+255
+00:00:40,350 --> 00:00:40,500
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+256
+00:00:40,500 --> 00:00:40,633
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+257
+00:00:40,633 --> 00:00:40,833
+signal:3 ch:3 flightTime:0 uavBat:22.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+258
+00:00:40,833 --> 00:00:40,966
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+259
+00:00:40,966 --> 00:00:41,116
+signal:4 ch:3 flightTime:0 uavBat:23.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+260
+00:00:41,116 --> 00:00:41,316
+signal:4 ch:3 flightTime:0 uavBat:23.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+261
+00:00:41,316 --> 00:00:41,450
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+262
+00:00:41,450 --> 00:00:41,583
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+263
+00:00:41,583 --> 00:00:41,800
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+264
+00:00:41,800 --> 00:00:41,933
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+265
+00:00:41,933 --> 00:00:42,033
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+266
+00:00:42,033 --> 00:00:42,266
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+267
+00:00:42,266 --> 00:00:42,400
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+268
+00:00:42,400 --> 00:00:42,600
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+269
+00:00:42,600 --> 00:00:42,733
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+270
+00:00:42,733 --> 00:00:42,916
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+271
+00:00:42,916 --> 00:00:43,066
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+272
+00:00:43,066 --> 00:00:43,216
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+273
+00:00:43,216 --> 00:00:43,383
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+274
+00:00:43,383 --> 00:00:43,533
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+275
+00:00:43,533 --> 00:00:43,666
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+276
+00:00:43,666 --> 00:00:43,850
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+277
+00:00:43,850 --> 00:00:44,000
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+278
+00:00:44,000 --> 00:00:44,149
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+279
+00:00:44,149 --> 00:00:44,300
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+280
+00:00:44,300 --> 00:00:44,500
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+281
+00:00:44,500 --> 00:00:44,683
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+282
+00:00:44,683 --> 00:00:44,833
+signal:4 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+283
+00:00:44,833 --> 00:00:44,983
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+284
+00:00:44,983 --> 00:00:45,116
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+285
+00:00:45,116 --> 00:00:45,266
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+286
+00:00:45,266 --> 00:00:45,466
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+287
+00:00:45,466 --> 00:00:45,600
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+288
+00:00:45,600 --> 00:00:45,783
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+289
+00:00:45,783 --> 00:00:45,916
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+290
+00:00:45,916 --> 00:00:46,000
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+291
+00:00:46,000 --> 00:00:46,250
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+292
+00:00:46,250 --> 00:00:46,433
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+293
+00:00:46,433 --> 00:00:46,566
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+294
+00:00:46,566 --> 00:00:46,700
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+295
+00:00:46,700 --> 00:00:46,883
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+296
+00:00:46,883 --> 00:00:47,050
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+297
+00:00:47,050 --> 00:00:47,216
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+298
+00:00:47,216 --> 00:00:47,366
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+299
+00:00:47,366 --> 00:00:47,500
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+300
+00:00:47,500 --> 00:00:47,683
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+301
+00:00:47,683 --> 00:00:47,833
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+302
+00:00:47,833 --> 00:00:47,983
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+303
+00:00:47,983 --> 00:00:48,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+304
+00:00:48,000 --> 00:00:48,300
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+305
+00:00:48,300 --> 00:00:48,450
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:37.7Mbps rcSignal:0
+
+306
+00:00:48,450 --> 00:00:48,616
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:37.7Mbps rcSignal:0
+
+307
+00:00:48,616 --> 00:00:48,766
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+308
+00:00:48,766 --> 00:00:48,966
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+309
+00:00:48,966 --> 00:00:49,100
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+310
+00:00:49,100 --> 00:00:49,233
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+311
+00:00:49,233 --> 00:00:49,450
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+312
+00:00:49,450 --> 00:00:49,600
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+313
+00:00:49,600 --> 00:00:49,733
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+314
+00:00:49,733 --> 00:00:49,916
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+315
+00:00:49,916 --> 00:00:50,000
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+316
+00:00:50,000 --> 00:00:50,233
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+317
+00:00:50,233 --> 00:00:50,366
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+318
+00:00:50,366 --> 00:00:50,533
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+319
+00:00:50,533 --> 00:00:50,716
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+320
+00:00:50,716 --> 00:00:50,866
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.4V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+321
+00:00:50,866 --> 00:00:51,000
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+322
+00:00:51,000 --> 00:00:51,183
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+323
+00:00:51,183 --> 00:00:51,316
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+324
+00:00:51,316 --> 00:00:51,516
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+325
+00:00:51,516 --> 00:00:51,633
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+326
+00:00:51,633 --> 00:00:51,850
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+327
+00:00:51,850 --> 00:00:51,983
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+328
+00:00:51,983 --> 00:00:52,116
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+329
+00:00:52,116 --> 00:00:52,300
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+330
+00:00:52,300 --> 00:00:52,433
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+331
+00:00:52,433 --> 00:00:52,600
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+332
+00:00:52,600 --> 00:00:52,766
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+333
+00:00:52,766 --> 00:00:52,966
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+334
+00:00:52,966 --> 00:00:53,100
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+335
+00:00:53,100 --> 00:00:53,233
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+336
+00:00:53,233 --> 00:00:53,416
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+337
+00:00:53,416 --> 00:00:53,550
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+338
+00:00:53,550 --> 00:00:53,750
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:40ms bitrate:59.9Mbps rcSignal:0
+
+339
+00:00:53,750 --> 00:00:53,900
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+340
+00:00:53,900 --> 00:00:54,000
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+341
+00:00:54,000 --> 00:00:54,183
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+342
+00:00:54,183 --> 00:00:54,333
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+343
+00:00:54,333 --> 00:00:54,533
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+344
+00:00:54,533 --> 00:00:54,650
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:35ms bitrate:59.9Mbps rcSignal:0
+
+345
+00:00:54,650 --> 00:00:54,850
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:35ms bitrate:56.0Mbps rcSignal:0
+
+346
+00:00:54,850 --> 00:00:55,000
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:44ms bitrate:46.6Mbps rcSignal:0
+
+347
+00:00:55,000 --> 00:00:55,133
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:35ms bitrate:46.6Mbps rcSignal:0
+
+348
+00:00:55,133 --> 00:00:55,316
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:45.2Mbps rcSignal:0
+
+349
+00:00:55,316 --> 00:00:55,466
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:45.2Mbps rcSignal:0
+
+350
+00:00:55,466 --> 00:00:55,650
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:49.2Mbps rcSignal:0
+
+351
+00:00:55,650 --> 00:00:55,833
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:49.2Mbps rcSignal:0
+
+352
+00:00:55,833 --> 00:00:55,966
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:51.7Mbps rcSignal:0
+
+353
+00:00:55,966 --> 00:00:56,083
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:51.7Mbps rcSignal:0
+
+354
+00:00:56,083 --> 00:00:56,266
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:58.0Mbps rcSignal:0
+
+355
+00:00:56,266 --> 00:00:56,466
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:58.0Mbps rcSignal:0
+
+356
+00:00:56,466 --> 00:00:56,566
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+357
+00:00:56,566 --> 00:00:56,750
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+358
+00:00:56,750 --> 00:00:56,933
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+359
+00:00:56,933 --> 00:00:57,083
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+360
+00:00:57,083 --> 00:00:57,250
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+361
+00:00:57,250 --> 00:00:57,400
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+362
+00:00:57,400 --> 00:00:57,550
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+363
+00:00:57,550 --> 00:00:57,683
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+364
+00:00:57,683 --> 00:00:57,866
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+365
+00:00:57,866 --> 00:00:58,000
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+366
+00:00:58,000 --> 00:00:58,100
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+367
+00:00:58,100 --> 00:00:58,366
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+368
+00:00:58,366 --> 00:00:58,533
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+369
+00:00:58,533 --> 00:00:58,650
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+370
+00:00:58,650 --> 00:00:58,816
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+371
+00:00:58,816 --> 00:00:59,016
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+372
+00:00:59,016 --> 00:00:59,150
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+373
+00:00:59,150 --> 00:00:59,283
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+374
+00:00:59,283 --> 00:00:59,483
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+375
+00:00:59,483 --> 00:00:59,600
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+376
+00:00:59,600 --> 00:00:59,800
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+377
+00:00:59,800 --> 00:00:59,950
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+378
+00:00:59,950 --> 00:01:00,116
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+379
+00:01:00,116 --> 00:01:00,283
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+380
+00:01:00,283 --> 00:01:00,450
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+381
+00:01:00,450 --> 00:01:00,600
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+382
+00:01:00,600 --> 00:01:00,783
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+383
+00:01:00,783 --> 00:01:00,916
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+384
+00:01:00,916 --> 00:01:01,050
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+385
+00:01:01,050 --> 00:01:01,250
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+386
+00:01:01,250 --> 00:01:01,366
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+387
+00:01:01,366 --> 00:01:01,566
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+388
+00:01:01,566 --> 00:01:01,700
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+389
+00:01:01,700 --> 00:01:01,833
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+390
+00:01:01,833 --> 00:01:02,000
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+391
+00:01:02,000 --> 00:01:02,050
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+392
+00:01:02,050 --> 00:01:02,333
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+393
+00:01:02,333 --> 00:01:02,533
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+394
+00:01:02,533 --> 00:01:02,650
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+395
+00:01:02,650 --> 00:01:02,850
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+396
+00:01:02,850 --> 00:01:02,916
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+397
+00:01:02,916 --> 00:01:03,166
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+398
+00:01:03,166 --> 00:01:03,316
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+399
+00:01:03,316 --> 00:01:03,483
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+400
+00:01:03,483 --> 00:01:03,633
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+401
+00:01:03,633 --> 00:01:03,783
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+402
+00:01:03,783 --> 00:01:03,933
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+403
+00:01:03,933 --> 00:01:04,000
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+404
+00:01:04,000 --> 00:01:04,250
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+405
+00:01:04,250 --> 00:01:04,433
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+406
+00:01:04,433 --> 00:01:04,583
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+407
+00:01:04,583 --> 00:01:04,766
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+408
+00:01:04,766 --> 00:01:04,883
+signal:3 ch:3 flightTime:0 uavBat:22.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+409
+00:01:04,883 --> 00:01:05,066
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+410
+00:01:05,066 --> 00:01:05,216
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+411
+00:01:05,216 --> 00:01:05,400
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+412
+00:01:05,400 --> 00:01:05,533
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+413
+00:01:05,533 --> 00:01:05,666
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+414
+00:01:05,666 --> 00:01:05,866
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+415
+00:01:05,866 --> 00:01:06,000
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+416
+00:01:06,000 --> 00:01:06,183
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+417
+00:01:06,183 --> 00:01:06,333
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+418
+00:01:06,333 --> 00:01:06,500
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+419
+00:01:06,500 --> 00:01:06,666
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+420
+00:01:06,666 --> 00:01:06,833
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+421
+00:01:06,833 --> 00:01:06,966
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+422
+00:01:06,966 --> 00:01:07,166
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+423
+00:01:07,166 --> 00:01:07,300
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+424
+00:01:07,300 --> 00:01:07,483
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+425
+00:01:07,483 --> 00:01:07,616
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:56.0Mbps rcSignal:0
+
+426
+00:01:07,616 --> 00:01:07,816
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:39.6Mbps rcSignal:0
+
+427
+00:01:07,816 --> 00:01:07,933
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:39.6Mbps rcSignal:0
+
+428
+00:01:07,933 --> 00:01:08,016
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:39.6Mbps rcSignal:0
+
+429
+00:01:08,016 --> 00:01:08,283
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:39.6Mbps rcSignal:0
+
+430
+00:01:08,283 --> 00:01:08,433
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:39.6Mbps rcSignal:0
+
+431
+00:01:08,433 --> 00:01:08,600
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:39.6Mbps rcSignal:0
+
+432
+00:01:08,600 --> 00:01:08,750
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:41.0Mbps rcSignal:0
+
+433
+00:01:08,750 --> 00:01:08,900
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:44.9Mbps rcSignal:0
+
+434
+00:01:08,900 --> 00:01:09,083
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:44.9Mbps rcSignal:0
+
+435
+00:01:09,083 --> 00:01:09,216
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:46.6Mbps rcSignal:0
+
+436
+00:01:09,216 --> 00:01:09,433
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:55.4Mbps rcSignal:0
+
+437
+00:01:09,433 --> 00:01:09,550
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:58.0Mbps rcSignal:0
+
+438
+00:01:09,550 --> 00:01:09,700
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+439
+00:01:09,700 --> 00:01:09,900
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+440
+00:01:09,900 --> 00:01:10,000
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+441
+00:01:10,000 --> 00:01:10,150
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+442
+00:01:10,150 --> 00:01:10,383
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+443
+00:01:10,383 --> 00:01:10,516
+signal:4 ch:3 flightTime:0 uavBat:22.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+444
+00:01:10,516 --> 00:01:10,666
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:39ms bitrate:59.9Mbps rcSignal:0
+
+445
+00:01:10,666 --> 00:01:10,816
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+446
+00:01:10,816 --> 00:01:11,016
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+447
+00:01:11,016 --> 00:01:11,133
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+448
+00:01:11,133 --> 00:01:11,333
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+449
+00:01:11,333 --> 00:01:11,466
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:56.0Mbps rcSignal:0
+
+450
+00:01:11,466 --> 00:01:11,616
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:53.4Mbps rcSignal:0
+
+451
+00:01:11,616 --> 00:01:11,783
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:50.8Mbps rcSignal:0
+
+452
+00:01:11,783 --> 00:01:11,933
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:39ms bitrate:50.8Mbps rcSignal:0
+
+453
+00:01:11,933 --> 00:01:12,100
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:46.6Mbps rcSignal:0
+
+454
+00:01:12,100 --> 00:01:12,283
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:46.6Mbps rcSignal:0
+
+455
+00:01:12,283 --> 00:01:12,400
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:46.6Mbps rcSignal:0
+
+456
+00:01:12,400 --> 00:01:12,600
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:51.7Mbps rcSignal:0
+
+457
+00:01:12,600 --> 00:01:12,733
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:53.4Mbps rcSignal:0
+
+458
+00:01:12,733 --> 00:01:12,916
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:50.8Mbps rcSignal:0
+
+459
+00:01:12,916 --> 00:01:13,050
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:50.8Mbps rcSignal:0
+
+460
+00:01:13,050 --> 00:01:13,250
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:58.0Mbps rcSignal:0
+
+461
+00:01:13,250 --> 00:01:13,383
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+462
+00:01:13,383 --> 00:01:13,533
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+463
+00:01:13,533 --> 00:01:13,733
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+464
+00:01:13,733 --> 00:01:13,866
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+465
+00:01:13,866 --> 00:01:14,000
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+466
+00:01:14,000 --> 00:01:14,200
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+467
+00:01:14,200 --> 00:01:14,333
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+468
+00:01:14,333 --> 00:01:14,516
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+469
+00:01:14,516 --> 00:01:14,666
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+470
+00:01:14,666 --> 00:01:14,800
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:56.0Mbps rcSignal:0
+
+471
+00:01:14,800 --> 00:01:15,000
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:58.0Mbps rcSignal:0
+
+472
+00:01:15,000 --> 00:01:15,116
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+473
+00:01:15,116 --> 00:01:15,316
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+474
+00:01:15,316 --> 00:01:15,500
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+475
+00:01:15,500 --> 00:01:15,633
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+476
+00:01:15,633 --> 00:01:15,816
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+477
+00:01:15,816 --> 00:01:15,966
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+478
+00:01:15,966 --> 00:01:16,000
+signal:3 ch:3 flightTime:0 uavBat:21.8V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+479
+00:01:16,000 --> 00:01:16,266
+signal:3 ch:3 flightTime:0 uavBat:21.7V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+480
+00:01:16,266 --> 00:01:16,400
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+481
+00:01:16,400 --> 00:01:16,600
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+482
+00:01:16,600 --> 00:01:16,733
+signal:3 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+483
+00:01:16,733 --> 00:01:16,933
+signal:3 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+484
+00:01:16,933 --> 00:01:17,066
+signal:3 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+485
+00:01:17,066 --> 00:01:17,200
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+486
+00:01:17,200 --> 00:01:17,400
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+487
+00:01:17,400 --> 00:01:17,533
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+488
+00:01:17,533 --> 00:01:17,716
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+489
+00:01:17,716 --> 00:01:17,833
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+490
+00:01:17,833 --> 00:01:18,000
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+491
+00:01:18,000 --> 00:01:18,166
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:34ms bitrate:59.9Mbps rcSignal:0
+
+492
+00:01:18,166 --> 00:01:18,366
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+493
+00:01:18,366 --> 00:01:18,483
+signal:3 ch:3 flightTime:0 uavBat:22.7V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+494
+00:01:18,483 --> 00:01:18,683
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+495
+00:01:18,683 --> 00:01:18,833
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+496
+00:01:18,833 --> 00:01:18,983
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+497
+00:01:18,983 --> 00:01:19,116
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+498
+00:01:19,116 --> 00:01:19,300
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+499
+00:01:19,300 --> 00:01:19,450
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+500
+00:01:19,450 --> 00:01:19,583
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+501
+00:01:19,583 --> 00:01:19,800
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+502
+00:01:19,800 --> 00:01:19,916
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+503
+00:01:19,916 --> 00:01:20,000
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+504
+00:01:20,000 --> 00:01:20,250
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+505
+00:01:20,250 --> 00:01:20,433
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+506
+00:01:20,433 --> 00:01:20,566
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+507
+00:01:20,566 --> 00:01:20,733
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+508
+00:01:20,733 --> 00:01:20,916
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+509
+00:01:20,916 --> 00:01:21,066
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+510
+00:01:21,066 --> 00:01:21,233
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+511
+00:01:21,233 --> 00:01:21,366
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+512
+00:01:21,366 --> 00:01:21,550
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+513
+00:01:21,550 --> 00:01:21,683
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+514
+00:01:21,683 --> 00:01:21,833
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+515
+00:01:21,833 --> 00:01:22,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+516
+00:01:22,000 --> 00:01:22,149
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+517
+00:01:22,149 --> 00:01:22,333
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+518
+00:01:22,333 --> 00:01:22,483
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+519
+00:01:22,483 --> 00:01:22,633
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+520
+00:01:22,633 --> 00:01:22,833
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+521
+00:01:22,833 --> 00:01:22,950
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+522
+00:01:22,950 --> 00:01:23,100
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+523
+00:01:23,100 --> 00:01:23,283
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+524
+00:01:23,283 --> 00:01:23,450
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+525
+00:01:23,450 --> 00:01:23,600
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+526
+00:01:23,600 --> 00:01:23,766
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+527
+00:01:23,766 --> 00:01:23,916
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+528
+00:01:23,916 --> 00:01:24,000
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+529
+00:01:24,000 --> 00:01:24,266
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+530
+00:01:24,266 --> 00:01:24,383
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+531
+00:01:24,383 --> 00:01:24,566
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+532
+00:01:24,566 --> 00:01:24,716
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+533
+00:01:24,716 --> 00:01:24,866
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+534
+00:01:24,866 --> 00:01:25,050
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+535
+00:01:25,050 --> 00:01:25,216
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+536
+00:01:25,216 --> 00:01:25,366
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+537
+00:01:25,366 --> 00:01:25,516
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+538
+00:01:25,516 --> 00:01:25,716
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+539
+00:01:25,716 --> 00:01:25,866
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+540
+00:01:25,866 --> 00:01:26,000
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+541
+00:01:26,000 --> 00:01:26,150
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+542
+00:01:26,150 --> 00:01:26,350
+signal:3 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+543
+00:01:26,350 --> 00:01:26,516
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+544
+00:01:26,516 --> 00:01:26,650
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+545
+00:01:26,650 --> 00:01:26,800
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+546
+00:01:26,800 --> 00:01:26,966
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+547
+00:01:26,966 --> 00:01:27,116
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+548
+00:01:27,116 --> 00:01:27,316
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+549
+00:01:27,316 --> 00:01:27,450
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+550
+00:01:27,450 --> 00:01:27,633
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+551
+00:01:27,633 --> 00:01:27,766
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+552
+00:01:27,766 --> 00:01:27,916
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+553
+00:01:27,916 --> 00:01:28,000
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+554
+00:01:28,000 --> 00:01:28,266
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+555
+00:01:28,266 --> 00:01:28,400
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+556
+00:01:28,400 --> 00:01:28,566
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+557
+00:01:28,566 --> 00:01:28,716
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+558
+00:01:28,716 --> 00:01:28,900
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+559
+00:01:28,900 --> 00:01:29,033
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+560
+00:01:29,033 --> 00:01:29,183
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+561
+00:01:29,183 --> 00:01:29,383
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+562
+00:01:29,383 --> 00:01:29,550
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+563
+00:01:29,550 --> 00:01:29,666
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+564
+00:01:29,666 --> 00:01:29,850
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+565
+00:01:29,850 --> 00:01:29,983
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+566
+00:01:29,983 --> 00:01:30,000
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+567
+00:01:30,000 --> 00:01:30,316
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+568
+00:01:30,316 --> 00:01:30,450
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+569
+00:01:30,450 --> 00:01:30,616
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+570
+00:01:30,616 --> 00:01:30,816
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+571
+00:01:30,816 --> 00:01:31,000
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+572
+00:01:31,000 --> 00:01:31,150
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+573
+00:01:31,150 --> 00:01:31,283
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+574
+00:01:31,283 --> 00:01:31,416
+signal:4 ch:3 flightTime:0 uavBat:22.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+575
+00:01:31,416 --> 00:01:31,600
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+576
+00:01:31,600 --> 00:01:31,733
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+577
+00:01:31,733 --> 00:01:31,933
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+578
+00:01:31,933 --> 00:01:32,066
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+579
+00:01:32,066 --> 00:01:32,250
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+580
+00:01:32,250 --> 00:01:32,383
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+581
+00:01:32,383 --> 00:01:32,583
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+582
+00:01:32,583 --> 00:01:32,733
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+583
+00:01:32,733 --> 00:01:32,900
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+584
+00:01:32,900 --> 00:01:33,066
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+585
+00:01:33,066 --> 00:01:33,216
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+586
+00:01:33,216 --> 00:01:33,350
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+587
+00:01:33,350 --> 00:01:33,550
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+588
+00:01:33,550 --> 00:01:33,666
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+589
+00:01:33,666 --> 00:01:33,866
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+590
+00:01:33,866 --> 00:01:34,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+591
+00:01:34,000 --> 00:01:34,133
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+592
+00:01:34,133 --> 00:01:34,333
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+593
+00:01:34,333 --> 00:01:34,483
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+594
+00:01:34,483 --> 00:01:34,616
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+595
+00:01:34,616 --> 00:01:34,816
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+596
+00:01:34,816 --> 00:01:34,933
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+597
+00:01:34,933 --> 00:01:35,133
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+598
+00:01:35,133 --> 00:01:35,283
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+599
+00:01:35,283 --> 00:01:35,466
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+600
+00:01:35,466 --> 00:01:35,616
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+601
+00:01:35,616 --> 00:01:35,750
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+602
+00:01:35,750 --> 00:01:35,950
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+603
+00:01:35,950 --> 00:01:36,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+604
+00:01:36,000 --> 00:01:36,266
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+605
+00:01:36,266 --> 00:01:36,416
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+606
+00:01:36,416 --> 00:01:36,583
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+607
+00:01:36,583 --> 00:01:36,733
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+608
+00:01:36,733 --> 00:01:36,866
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+609
+00:01:36,866 --> 00:01:37,033
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+610
+00:01:37,033 --> 00:01:37,183
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+611
+00:01:37,183 --> 00:01:37,366
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+612
+00:01:37,366 --> 00:01:37,500
+signal:4 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+613
+00:01:37,500 --> 00:01:37,683
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+614
+00:01:37,683 --> 00:01:37,816
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+615
+00:01:37,816 --> 00:01:38,000
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+616
+00:01:38,000 --> 00:01:38,150
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+617
+00:01:38,150 --> 00:01:38,283
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+618
+00:01:38,283 --> 00:01:38,483
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+619
+00:01:38,483 --> 00:01:38,650
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+620
+00:01:38,650 --> 00:01:38,800
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+621
+00:01:38,800 --> 00:01:38,933
+signal:4 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+622
+00:01:38,933 --> 00:01:39,116
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+623
+00:01:39,116 --> 00:01:39,266
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+624
+00:01:39,266 --> 00:01:39,466
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+625
+00:01:39,466 --> 00:01:39,583
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+626
+00:01:39,583 --> 00:01:39,750
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+627
+00:01:39,750 --> 00:01:39,933
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+628
+00:01:39,933 --> 00:01:40,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+629
+00:01:40,000 --> 00:01:40,233
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+630
+00:01:40,233 --> 00:01:40,416
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+631
+00:01:40,416 --> 00:01:40,550
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+632
+00:01:40,550 --> 00:01:40,733
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+633
+00:01:40,733 --> 00:01:40,866
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+634
+00:01:40,866 --> 00:01:41,016
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+635
+00:01:41,016 --> 00:01:41,216
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+636
+00:01:41,216 --> 00:01:41,350
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+637
+00:01:41,350 --> 00:01:41,483
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+638
+00:01:41,483 --> 00:01:41,683
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+639
+00:01:41,683 --> 00:01:41,816
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+640
+00:01:41,816 --> 00:01:42,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+641
+00:01:42,000 --> 00:01:42,166
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+642
+00:01:42,166 --> 00:01:42,300
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+643
+00:01:42,300 --> 00:01:42,483
+signal:3 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+644
+00:01:42,483 --> 00:01:42,616
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+645
+00:01:42,616 --> 00:01:42,816
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+646
+00:01:42,816 --> 00:01:42,966
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+647
+00:01:42,966 --> 00:01:43,083
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+648
+00:01:43,083 --> 00:01:43,233
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+649
+00:01:43,233 --> 00:01:43,383
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+650
+00:01:43,383 --> 00:01:43,583
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+651
+00:01:43,583 --> 00:01:43,733
+signal:3 ch:3 flightTime:0 uavBat:22.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+652
+00:01:43,733 --> 00:01:43,883
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+653
+00:01:43,883 --> 00:01:44,000
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+654
+00:01:44,000 --> 00:01:44,200
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+655
+00:01:44,200 --> 00:01:44,350
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+656
+00:01:44,350 --> 00:01:44,550
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+657
+00:01:44,550 --> 00:01:44,716
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+658
+00:01:44,716 --> 00:01:44,850
+signal:3 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+659
+00:01:44,850 --> 00:01:45,016
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+660
+00:01:45,016 --> 00:01:45,183
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+661
+00:01:45,183 --> 00:01:45,333
+signal:3 ch:3 flightTime:0 uavBat:22.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+662
+00:01:45,333 --> 00:01:45,483
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+663
+00:01:45,483 --> 00:01:45,633
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+664
+00:01:45,633 --> 00:01:45,783
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+665
+00:01:45,783 --> 00:01:45,983
+signal:3 ch:3 flightTime:0 uavBat:22.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+666
+00:01:45,983 --> 00:01:46,000
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+667
+00:01:46,000 --> 00:01:46,283
+signal:3 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+668
+00:01:46,283 --> 00:01:46,450
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+669
+00:01:46,450 --> 00:01:46,583
+signal:3 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+670
+00:01:46,583 --> 00:01:46,750
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+671
+00:01:46,750 --> 00:01:46,950
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+672
+00:01:46,950 --> 00:01:47,083
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+673
+00:01:47,083 --> 00:01:47,233
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+674
+00:01:47,233 --> 00:01:47,433
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+675
+00:01:47,433 --> 00:01:47,566
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+676
+00:01:47,566 --> 00:01:47,700
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+677
+00:01:47,700 --> 00:01:47,900
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+678
+00:01:47,900 --> 00:01:48,000
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+679
+00:01:48,000 --> 00:01:48,200
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+680
+00:01:48,200 --> 00:01:48,383
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+681
+00:01:48,383 --> 00:01:48,533
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+682
+00:01:48,533 --> 00:01:48,666
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+683
+00:01:48,666 --> 00:01:48,816
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+684
+00:01:48,816 --> 00:01:48,983
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+685
+00:01:48,983 --> 00:01:49,183
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+686
+00:01:49,183 --> 00:01:49,316
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+687
+00:01:49,316 --> 00:01:49,433
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+688
+00:01:49,433 --> 00:01:49,633
+signal:4 ch:3 flightTime:0 uavBat:21.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+689
+00:01:49,633 --> 00:01:49,783
+signal:4 ch:3 flightTime:0 uavBat:21.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+690
+00:01:49,783 --> 00:01:49,950
+signal:4 ch:3 flightTime:0 uavBat:21.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+691
+00:01:49,950 --> 00:01:50,000
+signal:4 ch:3 flightTime:0 uavBat:21.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+692
+00:01:50,000 --> 00:01:50,233
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+693
+00:01:50,233 --> 00:01:50,416
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+694
+00:01:50,416 --> 00:01:50,550
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+695
+00:01:50,550 --> 00:01:50,750
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+696
+00:01:50,750 --> 00:01:50,883
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+697
+00:01:50,883 --> 00:01:51,050
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+698
+00:01:51,050 --> 00:01:51,216
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+699
+00:01:51,216 --> 00:01:51,350
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+700
+00:01:51,350 --> 00:01:51,550
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+701
+00:01:51,550 --> 00:01:51,683
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+702
+00:01:51,683 --> 00:01:51,866
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+703
+00:01:51,866 --> 00:01:52,000
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+704
+00:01:52,000 --> 00:01:52,150
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+705
+00:01:52,150 --> 00:01:52,316
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+706
+00:01:52,316 --> 00:01:52,466
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+707
+00:01:52,466 --> 00:01:52,650
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+708
+00:01:52,650 --> 00:01:52,800
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+709
+00:01:52,800 --> 00:01:53,000
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+710
+00:01:53,000 --> 00:01:53,133
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+711
+00:01:53,133 --> 00:01:53,283
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+712
+00:01:53,283 --> 00:01:53,433
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+713
+00:01:53,433 --> 00:01:53,616
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+714
+00:01:53,616 --> 00:01:53,766
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+715
+00:01:53,766 --> 00:01:53,900
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+716
+00:01:53,900 --> 00:01:54,000
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+717
+00:01:54,000 --> 00:01:54,250
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+718
+00:01:54,250 --> 00:01:54,416
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+719
+00:01:54,416 --> 00:01:54,566
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+720
+00:01:54,566 --> 00:01:54,750
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+721
+00:01:54,750 --> 00:01:54,900
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+722
+00:01:54,900 --> 00:01:55,050
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+723
+00:01:55,050 --> 00:01:55,216
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+724
+00:01:55,216 --> 00:01:55,366
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+725
+00:01:55,366 --> 00:01:55,516
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+726
+00:01:55,516 --> 00:01:55,700
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+727
+00:01:55,700 --> 00:01:55,850
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+728
+00:01:55,850 --> 00:01:56,000
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+729
+00:01:56,000 --> 00:01:56,183
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+730
+00:01:56,183 --> 00:01:56,316
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+731
+00:01:56,316 --> 00:01:56,516
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+732
+00:01:56,516 --> 00:01:56,633
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+733
+00:01:56,633 --> 00:01:56,833
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+734
+00:01:56,833 --> 00:01:57,000
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+735
+00:01:57,000 --> 00:01:57,133
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+736
+00:01:57,133 --> 00:01:57,316
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+737
+00:01:57,316 --> 00:01:57,450
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+738
+00:01:57,450 --> 00:01:57,600
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+739
+00:01:57,600 --> 00:01:57,783
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+740
+00:01:57,783 --> 00:01:57,933
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+741
+00:01:57,933 --> 00:01:58,000
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+742
+00:01:58,000 --> 00:01:58,283
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+743
+00:01:58,283 --> 00:01:58,400
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+744
+00:01:58,400 --> 00:01:58,600
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+745
+00:01:58,600 --> 00:01:58,700
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+746
+00:01:58,700 --> 00:01:58,916
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+747
+00:01:58,916 --> 00:01:59,033
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+748
+00:01:59,033 --> 00:01:59,183
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+749
+00:01:59,183 --> 00:01:59,400
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+750
+00:01:59,400 --> 00:01:59,516
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+751
+00:01:59,516 --> 00:01:59,716
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+752
+00:01:59,716 --> 00:01:59,850
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+753
+00:01:59,850 --> 00:02:00,000
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+754
+00:02:00,000 --> 00:02:00,166
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+755
+00:02:00,166 --> 00:02:00,350
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+756
+00:02:00,350 --> 00:02:00,500
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+757
+00:02:00,500 --> 00:02:00,666
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+758
+00:02:00,666 --> 00:02:00,816
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+759
+00:02:00,816 --> 00:02:00,950
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+760
+00:02:00,950 --> 00:02:01,133
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+761
+00:02:01,133 --> 00:02:01,283
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+762
+00:02:01,283 --> 00:02:01,483
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+763
+00:02:01,483 --> 00:02:01,616
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+764
+00:02:01,616 --> 00:02:01,800
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+765
+00:02:01,800 --> 00:02:01,933
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+766
+00:02:01,933 --> 00:02:02,000
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+767
+00:02:02,000 --> 00:02:02,216
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+768
+00:02:02,216 --> 00:02:02,433
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+769
+00:02:02,433 --> 00:02:02,550
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+770
+00:02:02,550 --> 00:02:02,733
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+771
+00:02:02,733 --> 00:02:02,916
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+772
+00:02:02,916 --> 00:02:03,050
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+773
+00:02:03,050 --> 00:02:03,200
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+774
+00:02:03,200 --> 00:02:03,383
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+775
+00:02:03,383 --> 00:02:03,533
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+776
+00:02:03,533 --> 00:02:03,666
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+777
+00:02:03,666 --> 00:02:03,850
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+778
+00:02:03,850 --> 00:02:03,966
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+779
+00:02:03,966 --> 00:02:04,183
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+780
+00:02:04,183 --> 00:02:04,333
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+781
+00:02:04,333 --> 00:02:04,450
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+782
+00:02:04,450 --> 00:02:04,633
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+783
+00:02:04,633 --> 00:02:04,800
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+784
+00:02:04,800 --> 00:02:04,950
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+785
+00:02:04,950 --> 00:02:05,150
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+786
+00:02:05,150 --> 00:02:05,266
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+787
+00:02:05,266 --> 00:02:05,450
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+788
+00:02:05,450 --> 00:02:05,583
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+789
+00:02:05,583 --> 00:02:05,783
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+790
+00:02:05,783 --> 00:02:05,900
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+791
+00:02:05,900 --> 00:02:06,000
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+792
+00:02:06,000 --> 00:02:06,233
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+793
+00:02:06,233 --> 00:02:06,400
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+794
+00:02:06,400 --> 00:02:06,550
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+795
+00:02:06,550 --> 00:02:06,700
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+796
+00:02:06,700 --> 00:02:06,883
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+797
+00:02:06,883 --> 00:02:07,033
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+798
+00:02:07,033 --> 00:02:07,200
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+799
+00:02:07,200 --> 00:02:07,350
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+800
+00:02:07,350 --> 00:02:07,500
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+801
+00:02:07,500 --> 00:02:07,683
+signal:4 ch:3 flightTime:0 uavBat:21.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+802
+00:02:07,683 --> 00:02:07,816
+signal:4 ch:3 flightTime:0 uavBat:21.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+803
+00:02:07,816 --> 00:02:07,983
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+804
+00:02:07,983 --> 00:02:08,166
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+805
+00:02:08,166 --> 00:02:08,316
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+806
+00:02:08,316 --> 00:02:08,466
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+807
+00:02:08,466 --> 00:02:08,616
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+808
+00:02:08,616 --> 00:02:08,816
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+809
+00:02:08,816 --> 00:02:08,950
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+810
+00:02:08,950 --> 00:02:09,083
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+811
+00:02:09,083 --> 00:02:09,283
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+812
+00:02:09,283 --> 00:02:09,416
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+813
+00:02:09,416 --> 00:02:09,566
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+814
+00:02:09,566 --> 00:02:09,750
+signal:4 ch:3 flightTime:0 uavBat:21.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+815
+00:02:09,750 --> 00:02:09,883
+signal:4 ch:3 flightTime:0 uavBat:21.3V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+816
+00:02:09,883 --> 00:02:10,000
+signal:4 ch:3 flightTime:0 uavBat:21.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+817
+00:02:10,000 --> 00:02:10,250
+signal:4 ch:3 flightTime:0 uavBat:21.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+818
+00:02:10,250 --> 00:02:10,400
+signal:4 ch:3 flightTime:0 uavBat:21.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+819
+00:02:10,400 --> 00:02:10,533
+signal:4 ch:3 flightTime:0 uavBat:20.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+820
+00:02:10,533 --> 00:02:10,716
+signal:4 ch:3 flightTime:0 uavBat:20.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:21ms bitrate:59.9Mbps rcSignal:0
+
+821
+00:02:10,716 --> 00:02:10,900
+signal:4 ch:3 flightTime:0 uavBat:20.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+822
+00:02:10,900 --> 00:02:11,016
+signal:4 ch:3 flightTime:0 uavBat:20.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+823
+00:02:11,016 --> 00:02:11,200
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+824
+00:02:11,200 --> 00:02:11,333
+signal:4 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+825
+00:02:11,333 --> 00:02:11,483
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+826
+00:02:11,483 --> 00:02:11,683
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+827
+00:02:11,683 --> 00:02:11,816
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+828
+00:02:11,816 --> 00:02:11,966
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+829
+00:02:11,966 --> 00:02:12,050
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+830
+00:02:12,050 --> 00:02:12,283
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+831
+00:02:12,283 --> 00:02:12,466
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+832
+00:02:12,466 --> 00:02:12,616
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+833
+00:02:12,616 --> 00:02:12,766
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+834
+00:02:12,766 --> 00:02:12,966
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+835
+00:02:12,966 --> 00:02:13,100
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+836
+00:02:13,100 --> 00:02:13,266
+signal:3 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+837
+00:02:13,266 --> 00:02:13,450
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+838
+00:02:13,450 --> 00:02:13,583
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+839
+00:02:13,583 --> 00:02:13,750
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+840
+00:02:13,750 --> 00:02:13,883
+signal:3 ch:3 flightTime:0 uavBat:21.7V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+841
+00:02:13,883 --> 00:02:14,000
+signal:3 ch:3 flightTime:0 uavBat:21.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+842
+00:02:14,000 --> 00:02:14,233
+signal:3 ch:3 flightTime:0 uavBat:21.4V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+843
+00:02:14,233 --> 00:02:14,400
+signal:3 ch:3 flightTime:0 uavBat:21.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+844
+00:02:14,400 --> 00:02:14,566
+signal:3 ch:3 flightTime:0 uavBat:21.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+845
+00:02:14,566 --> 00:02:14,700
+signal:3 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+846
+00:02:14,700 --> 00:02:14,850
+signal:3 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+847
+00:02:14,850 --> 00:02:15,033
+signal:3 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+848
+00:02:15,033 --> 00:02:15,166
+signal:3 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+849
+00:02:15,166 --> 00:02:15,350
+signal:3 ch:3 flightTime:0 uavBat:21.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+850
+00:02:15,350 --> 00:02:15,516
+signal:3 ch:3 flightTime:0 uavBat:21.4V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+851
+00:02:15,516 --> 00:02:15,650
+signal:3 ch:3 flightTime:0 uavBat:21.5V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+852
+00:02:15,650 --> 00:02:15,833
+signal:3 ch:3 flightTime:0 uavBat:21.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+853
+00:02:15,833 --> 00:02:15,983
+signal:3 ch:3 flightTime:0 uavBat:21.6V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+854
+00:02:15,983 --> 00:02:16,116
+signal:3 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+855
+00:02:16,116 --> 00:02:16,283
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+856
+00:02:16,283 --> 00:02:16,450
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+857
+00:02:16,450 --> 00:02:16,633
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+858
+00:02:16,633 --> 00:02:16,783
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+859
+00:02:16,783 --> 00:02:16,950
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+860
+00:02:16,950 --> 00:02:17,066
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+861
+00:02:17,066 --> 00:02:17,266
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+862
+00:02:17,266 --> 00:02:17,416
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+863
+00:02:17,416 --> 00:02:17,566
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+864
+00:02:17,566 --> 00:02:17,750
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+865
+00:02:17,750 --> 00:02:17,883
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:33ms bitrate:59.9Mbps rcSignal:0
+
+866
+00:02:17,883 --> 00:02:18,000
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+867
+00:02:18,000 --> 00:02:18,233
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+868
+00:02:18,233 --> 00:02:18,350
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+869
+00:02:18,350 --> 00:02:18,566
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+870
+00:02:18,566 --> 00:02:18,700
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+871
+00:02:18,700 --> 00:02:18,833
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+872
+00:02:18,833 --> 00:02:19,016
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+873
+00:02:19,016 --> 00:02:19,150
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+874
+00:02:19,150 --> 00:02:19,350
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+875
+00:02:19,350 --> 00:02:19,466
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+876
+00:02:19,466 --> 00:02:19,633
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+877
+00:02:19,633 --> 00:02:19,766
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+878
+00:02:19,766 --> 00:02:19,966
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+879
+00:02:19,966 --> 00:02:20,133
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+880
+00:02:20,133 --> 00:02:20,266
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+881
+00:02:20,266 --> 00:02:20,416
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+882
+00:02:20,416 --> 00:02:20,566
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+883
+00:02:20,566 --> 00:02:20,783
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+884
+00:02:20,783 --> 00:02:20,900
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+885
+00:02:20,900 --> 00:02:21,083
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+886
+00:02:21,083 --> 00:02:21,233
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+887
+00:02:21,233 --> 00:02:21,400
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+888
+00:02:21,400 --> 00:02:21,566
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+889
+00:02:21,566 --> 00:02:21,683
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+890
+00:02:21,683 --> 00:02:21,866
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+891
+00:02:21,866 --> 00:02:22,000
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+892
+00:02:22,000 --> 00:02:22,183
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+893
+00:02:22,183 --> 00:02:22,333
+signal:4 ch:3 flightTime:0 uavBat:21.7V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+894
+00:02:22,333 --> 00:02:22,500
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+895
+00:02:22,500 --> 00:02:22,650
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+896
+00:02:22,650 --> 00:02:22,833
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+897
+00:02:22,833 --> 00:02:23,016
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+898
+00:02:23,016 --> 00:02:23,166
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+899
+00:02:23,166 --> 00:02:23,316
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:27ms bitrate:59.9Mbps rcSignal:0
+
+900
+00:02:23,316 --> 00:02:23,483
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+901
+00:02:23,483 --> 00:02:23,650
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:26ms bitrate:59.9Mbps rcSignal:0
+
+902
+00:02:23,650 --> 00:02:23,800
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+903
+00:02:23,800 --> 00:02:23,966
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+904
+00:02:23,966 --> 00:02:24,000
+signal:4 ch:3 flightTime:0 uavBat:21.6V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+905
+00:02:24,000 --> 00:02:24,283
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+906
+00:02:24,283 --> 00:02:24,416
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+907
+00:02:24,416 --> 00:02:24,600
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+908
+00:02:24,600 --> 00:02:24,733
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+909
+00:02:24,733 --> 00:02:24,916
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+910
+00:02:24,916 --> 00:02:25,033
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+911
+00:02:25,033 --> 00:02:25,233
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+912
+00:02:25,233 --> 00:02:25,366
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+913
+00:02:25,366 --> 00:02:25,550
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+914
+00:02:25,550 --> 00:02:25,733
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+915
+00:02:25,733 --> 00:02:25,866
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+916
+00:02:25,866 --> 00:02:26,000
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+917
+00:02:26,000 --> 00:02:26,183
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+918
+00:02:26,183 --> 00:02:26,333
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+919
+00:02:26,333 --> 00:02:26,516
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+920
+00:02:26,516 --> 00:02:26,650
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.8V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+921
+00:02:26,650 --> 00:02:26,833
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+922
+00:02:26,833 --> 00:02:26,966
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+923
+00:02:26,966 --> 00:02:27,166
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+924
+00:02:27,166 --> 00:02:27,283
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+925
+00:02:27,283 --> 00:02:27,483
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+926
+00:02:27,483 --> 00:02:27,633
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+927
+00:02:27,633 --> 00:02:27,816
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+928
+00:02:27,816 --> 00:02:27,950
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+929
+00:02:27,950 --> 00:02:28,133
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:28ms bitrate:59.9Mbps rcSignal:0
+
+930
+00:02:28,133 --> 00:02:28,300
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:29ms bitrate:59.9Mbps rcSignal:0
+
+931
+00:02:28,300 --> 00:02:28,433
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+932
+00:02:28,433 --> 00:02:28,600
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+933
+00:02:28,600 --> 00:02:28,716
+signal:4 ch:3 flightTime:0 uavBat:21.8V glsBat:11.3V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+934
+00:02:28,716 --> 00:02:28,883
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:25ms bitrate:59.9Mbps rcSignal:0
+
+935
+00:02:28,883 --> 00:02:29,033
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:32ms bitrate:59.9Mbps rcSignal:0
+
+936
+00:02:29,033 --> 00:02:29,233
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:31ms bitrate:59.9Mbps rcSignal:0
+
+937
+00:02:29,233 --> 00:02:29,350
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+938
+00:02:29,350 --> 00:02:29,550
+signal:4 ch:3 flightTime:0 uavBat:21.9V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+939
+00:02:29,550 --> 00:02:29,683
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:30ms bitrate:59.9Mbps rcSignal:0
+
+940
+00:02:29,683 --> 00:02:29,866
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.5V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+941
+00:02:29,866 --> 00:02:30,000
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+942
+00:02:30,000 --> 00:02:30,200
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+943
+00:02:30,200 --> 00:02:30,350
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+944
+00:02:30,350 --> 00:02:30,466
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+945
+00:02:30,466 --> 00:02:30,650
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+946
+00:02:30,650 --> 00:02:30,833
+signal:4 ch:3 flightTime:0 uavBat:22.0V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+947
+00:02:30,833 --> 00:02:30,966
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+948
+00:02:30,966 --> 00:02:31,150
+signal:4 ch:3 flightTime:0 uavBat:22.1V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+949
+00:02:31,150 --> 00:02:31,266
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+950
+00:02:31,266 --> 00:02:31,450
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+951
+00:02:31,450 --> 00:02:31,600
+signal:4 ch:3 flightTime:0 uavBat:22.2V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+952
+00:02:31,600 --> 00:02:31,766
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+953
+00:02:31,766 --> 00:02:31,950
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+954
+00:02:31,950 --> 00:02:32,100
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+955
+00:02:32,100 --> 00:02:32,283
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+956
+00:02:32,283 --> 00:02:32,416
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+957
+00:02:32,416 --> 00:02:32,583
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+958
+00:02:32,583 --> 00:02:32,716
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+959
+00:02:32,716 --> 00:02:32,883
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.7V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+960
+00:02:32,883 --> 00:02:33,083
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:22ms bitrate:59.9Mbps rcSignal:0
+
+961
+00:02:33,083 --> 00:02:33,200
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
+962
+00:02:33,200 --> 00:02:33,383
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:23ms bitrate:59.9Mbps rcSignal:0
+
+963
+00:02:33,383 --> 00:02:33,566
+signal:4 ch:3 flightTime:0 uavBat:22.3V glsBat:11.6V uavBatCells:6 glsBatCells:3 delay:24ms bitrate:59.9Mbps rcSignal:0
+
