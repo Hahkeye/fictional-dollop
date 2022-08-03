@@ -7,9 +7,9 @@ import math,os
 
 
 class Frame:
-    def __init__(self, signal, channel, flightTime, craftBat, goggleBat, craftCellCount, delay, bitrate, rcsignal, start, end):
+    def __init__(self, signal, channel, flightTime, craftBat, goggleBat, craftCellCount, delay, bitrate, rcsignal, start, end,numba):
         self.signal=signal
-        self.frameNumber=0
+        self.frameNumber=numba
         self.frameStart=start
         self.frameEnd=end
         self.channel=channel
@@ -23,13 +23,12 @@ class Frame:
 
     def make(contents):
         #contents frameNumber|time|data
-        
+        #print(contents)
         data = contents[2].split(" ")
         time = contents[1].split("-->")
         tDelay = int(data[7].split(":")[1].split("m")[0])
         tBitrage = float(data[8].split(":")[1].split("M")[0])
-
-        return Frame(data[0][7],data[1][3],data[2].split(":")[1],data[3].split(":")[1],data[4].split(":")[1],data[5].split(":")[1],tDelay,tBitrage,data[8].split(":")[1],time[0],time[1])
+        return Frame(data[0][7],data[1][3],data[2].split(":")[1],data[3].split(":")[1],data[4].split(":")[1],data[5].split(":")[1],tDelay,tBitrage,data[8].split(":")[1],time[0],time[1],contents[0])
 
 class Flight:
     def __init__(self, name):
@@ -68,10 +67,10 @@ class Flight:
     def out(self):
         print("Flight Name: ", self.name)
         print("Frame count: ",self.frameCount)
-        print("Lowest Bitrage:", self.lowestBitrage.bitrate)
-        print("Highest Delay: ", self.maxDelay.delay)
-        print("Averag delay: ", (self.averageDelay))    
-        print("Averag Bitrage: ", (self.averageBitrage))    
+        print("Lowest Bitrage:", self.lowestBitrage.bitrate, "mbps ",self.lowestBitrage.delay,"ms"," Frame number: ",self.lowestBitrage.frameNumber)
+        print("Highest Delay: ", self.maxDelay.delay,"ms ",self.maxDelay.bitrate,"mbps"," Frame number: ",self.maxDelay.frameNumber)
+        print("Averag delay: ", self.averageDelay,"ms")    
+        print("Averag Bitrage: ", self.averageBitrage,"mbps")    
 
 class Suite:
     def __init__(self, flights: list[Flight]):
@@ -97,10 +96,6 @@ def menu():
     2. |   List Flights
     3. |   Output Flights
     4. |   Folder target
-
-
-
-
     """)
 
 s = Suite()
