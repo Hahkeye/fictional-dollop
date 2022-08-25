@@ -2,7 +2,7 @@ import math,os
 
 # Features:
 # Add gps data so you can tell at what point in the flight you had the bad link quality
-# Include time frame in print out
+
 # Total statiscs across all flights in a group.
 
 
